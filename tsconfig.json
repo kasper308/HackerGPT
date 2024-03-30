@@ -1,4 +1,5 @@
-{
+
+@corbin-ThinkPad-T480:~/Documents/Projects/nextjs-typescript$ cat tsconfig.json{
   "compilerOptions": {
     "target": "es2017",
     "lib": ["dom", "dom.iterable", "esnext"],
